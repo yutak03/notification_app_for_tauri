@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notification_app_for_tauri</string>
+    <string name="main_activity_title">notification_app_for_tauri</string>
+</resources>
